@@ -146,11 +146,3 @@ If you'd like to contribute to this project:
 4. Open a pull request describing your changes.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
-
----
-
-By structuring the document with headers and clear sections, it should now look more professional and readable when viewed on GitHub!
